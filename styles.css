@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #525CEB;
+    color: #fff;
+    padding: 60px 0;
+}
+
+header a {
+    color: #fff;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#skill_list {
+    padding-left: 255px;
+}
